@@ -1,0 +1,17 @@
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\bin\Debug\net6.0-windows\IlkForm.exe
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\bin\Debug\net6.0-windows\IlkForm.deps.json
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\bin\Debug\net6.0-windows\IlkForm.runtimeconfig.json
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\bin\Debug\net6.0-windows\IlkForm.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\bin\Debug\net6.0-windows\IlkForm.pdb
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.Form1.resources
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.csproj.GenerateResource.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.AssemblyInfoInputs.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.AssemblyInfo.cs
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.csproj.CoreCompileInputs.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\refint\IlkForm.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.pdb
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.genruntimeconfig.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\ref\IlkForm.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\IlkForm\IlkForm\obj\Debug\net6.0-windows\IlkForm.Properties.Resources.resources

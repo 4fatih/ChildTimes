@@ -1,0 +1,16 @@
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\bin\Debug\net6.0-windows\OkultoSinavTakip.exe
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\bin\Debug\net6.0-windows\OkultoSinavTakip.deps.json
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\bin\Debug\net6.0-windows\OkultoSinavTakip.runtimeconfig.json
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\bin\Debug\net6.0-windows\OkultoSinavTakip.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\bin\Debug\net6.0-windows\OkultoSinavTakip.pdb
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.Form1.resources
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.csproj.GenerateResource.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.AssemblyInfoInputs.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.AssemblyInfo.cs
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.csproj.CoreCompileInputs.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\refint\OkultoSinavTakip.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.pdb
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\OkultoSinavTakip.genruntimeconfig.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\OkultoSinavTakip\OkultoSinavTakip\obj\Debug\net6.0-windows\ref\OkultoSinavTakip.dll

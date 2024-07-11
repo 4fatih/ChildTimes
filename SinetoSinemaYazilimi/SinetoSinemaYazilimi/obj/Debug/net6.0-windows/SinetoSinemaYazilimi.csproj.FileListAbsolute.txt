@@ -1,0 +1,48 @@
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.exe
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.deps.json
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.runtimeconfig.json
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.dll
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.pdb
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.Form1.resources
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.csproj.GenerateResource.cache
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.AssemblyInfoInputs.cache
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.AssemblyInfo.cs
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.csproj.CoreCompileInputs.cache
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.dll
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\refint\SinetoSinemaYazilimi.dll
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.pdb
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.genruntimeconfig.cache
+C:\Users\elifn\source\repos\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\ref\SinetoSinemaYazilimi.dll
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.Form1.resources
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.csproj.GenerateResource.cache
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.AssemblyInfoInputs.cache
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.AssemblyInfo.cs
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.csproj.CoreCompileInputs.cache
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.dll
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\refint\SinetoSinemaYazilimi.dll
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.pdb
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.exe
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.deps.json
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.runtimeconfig.json
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.dll
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.pdb
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.genruntimeconfig.cache
+F:\Masaüstü\KişiselYazılım\Yazılım Arşiv\Projeler\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\ref\SinetoSinemaYazilimi.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.exe
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.deps.json
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.runtimeconfig.json
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\bin\Debug\net6.0-windows\SinetoSinemaYazilimi.pdb
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.Form1.resources
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.csproj.GenerateResource.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.AssemblyInfoInputs.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.AssemblyInfo.cs
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.csproj.CoreCompileInputs.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\refint\SinetoSinemaYazilimi.dll
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.pdb
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\SinetoSinemaYazilimi.genruntimeconfig.cache
+C:\Users\elifn\OneDrive\Masaüstü\Fatih\SinetoSinemaYazilimi\SinetoSinemaYazilimi\obj\Debug\net6.0-windows\ref\SinetoSinemaYazilimi.dll
